@@ -9,6 +9,10 @@
           color: var(--dark-color);
       }
 
+      i{
+          color: #e7e7e7;
+      }
+
       nav{
          background-color: var(--dark-color);
       }
